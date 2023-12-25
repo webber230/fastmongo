@@ -1,5 +1,5 @@
 {
-    "name": "reasno/fastmongo",
+    "name": "webber230/fastmongo",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -42,7 +42,7 @@
     "bin": ["bin/mongo-proxy-darwin-amd64", "bin/mongo-proxy-linux-amd64"],
     "extra": {
 	"hyperf": {
-	    "config": "Reasno\\Fastmongo\\ConfigProvider"
+	    "config": "Webber230\\Fastmongo\\ConfigProvider"
 	}
     }
 }
